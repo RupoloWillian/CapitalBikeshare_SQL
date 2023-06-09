@@ -17,8 +17,6 @@ CREATE TABLE bike_share.tb_bike(
 );
 
 
-																 CRIAR UM ARQUIVO SQL COM AS CONSULTAS E AS RESPOSTAS
-
 /*1) Qual tipo de bicicleta foi a mais utilizada e qual a menos utilizada?​*/
 
 SELECT 
