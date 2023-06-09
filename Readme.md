@@ -18,7 +18,7 @@ O objetivo deste projeto é extrair insights da base de dados sobre os aluguéis
 
 ## INSIGHTS
 
-    A partir das análises utilizando SQL os seguintes insights foram obtidos:
+A partir das análises utilizando SQL os seguintes insights foram obtidos:
 * As bicicletas do tipo "clássicas" representam a maior parte dos empréstimos realizadas (78,55%)
 * O maior número de empréstimos ocorre entre junho e setembro que corresponde ao verão e início do outono nos EUA, sendo que no inverno (dezembro e fevereiro) o número de empréstimos apresenta os menores resultados
 * Os horários de pico no empréstimo das bicicletas ocorrem no fim da tarde entre as 17 e as 18 hs
